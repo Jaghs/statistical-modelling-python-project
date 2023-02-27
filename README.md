@@ -7,8 +7,8 @@ The goal for the project is to further my python skills mainly in importing/extr
 
 ## Process
 
-1. Loading in the City Bikes API to select chosen city of Paris showing all availabe bike stations in the area
-2. Loading in the Foursquare and Yelp APIs to connect their points of interest (POTs) to my city bikes information 
+1. Loading in the City Bikes API to select chosen city of Paris showing all available bike stations in the area
+2. Loading in the Foursquare and Yelp APIs to connect their points of interest (POIs) to my city bikes information 
 3. Merging city bikes table with Foursquare and Yelp table to see further information of the all related bike stations
 4. Importing merged data to create a linear regression model where I only kept relevant variables in the model 
 
@@ -25,5 +25,5 @@ Biggest challenge was creating the loops to incorporate the city bikes data and 
 
 ## Future Goals
 
-With the time constraint it would've been nice to get a deeper understanding of the data and especially the regression model. I also would've liked to understand all the code that I wrote as sum of it was very confusing when I was incorporting it from my notes.
+With the time constraint it would've been nice to get a deeper understanding of the data and especially the regression model. I also would've liked to understand all the code that I wrote as sum of it was very confusing when I was incorporating it from my notes.
 
