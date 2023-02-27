@@ -1,0 +1,51 @@
+,fsq_id,category_id,category_name,latitude,longitude,country,city,address,timezone,name
+0,4b058879f964a52014c822e3,13003.0,Bar,45.467682,9.174159,IT,Milan,"Via Giovanni Boccaccio 9, 20123 Milano Lombardy",Europe/Rome,Chocolat
+1,57e52fa0498efbcaf058850b,13276.0,Sushi Restaurant,45.467927,9.174402,IT,Milan,"Via Giovanni Boccaccio 4, 20123 Milano Lombardy",Europe/Rome,Temakinho Magenta
+2,4e19725d1f6eb9559883d15e,10027.0,Museum,45.470564,9.179293,IT,Milan,"Piazza Castello 3, 20121 Milano Lombardy",Europe/Rome,Musei Castello Sforzesco
+3,56e9617d498ec215dab4d682,13040.0,Dessert Shop,45.466171,9.17664,IT,Milan,"Corso Magenta 32, 20121 Milano Lombardy",Europe/Rome,Ammu Cannoli Espressi Siciliani
+4,4b71ab41f964a520e7542de3,16041.0,Plaza,45.470814,9.182074,IT,Milan,"Piazza Castello, 20121 Milano Lombardy",Europe/Rome,Piazza Castello
+5,4c0def7f336220a1567acb77,16016.0,Fountain,45.469237,9.180917,IT,Milan,"Piazza Castello 1, 20121 Milano Lombardy",Europe/Rome,Fontana del Castello Sforzesco
+6,4b05887df964a52057c922e3,10027.0,Museum,45.472288,9.173575,IT,Milan,"Viale Emilio Alemagna 6, 20121 Milano Lombardy",Europe/Rome,La Triennale di Milano
+7,4b058879f964a520ebc722e3,13145.0,Fast Food Restaurant,45.465061,9.17538,IT,Milan,"Via Carducci 17, 20123 Milano Lombardy",Europe/Rome,Boccondivino
+8,4b05887bf964a52075c822e3,10027.0,Museum,45.465993,9.170877,IT,Milan,"Piazza Santa Maria delle Grazie 2, 20123 Milano Lombardy",Europe/Rome,Museum of the Last Supper (Museo del Cenacolo Vinciano)
+9,4c877a3ed92ea093ff1e7672,13003.0,Bar,45.466098,9.180952,IT,Milan,"Via San Giovanni sul Muro 19, 20121 Milano Lombardy",Europe/Rome,Gay Odin
+10,4b058880f964a5200bca22e3,10039.0,Music Venue,45.472318,9.182318,IT,Milan,"Largo Antonio Greppi 1, 20121 Milano Lombardy",Europe/Rome,Piccolo Teatro Strehler
+11,553ccde7498eda40133bec29,13025.0,Wine Bar,45.474228,9.183347,IT,Milan,"Corso Giuseppe Garibaldi 55, 20121 Milano Lombardy",Europe/Rome,La Prosciutteria
+12,4c3e252683a3a5938aaaed33,13046.0,Ice Cream Parlor,45.474228,9.183347,IT,Milan,"Corso Giuseppe Garibaldi 55, 20121 Milano Lombardy",Europe/Rome,Garibaldi Crème
+13,51228214e4b0bc18a1423965,13276.0,Sushi Restaurant,45.474603,9.183258,IT,Milan,"Corso Garibaldi 59, 20121 Milano Lombardy",Europe/Rome,Temakinho Brera
+14,4e19725d1f6eb9559883d15e,10027.0,Museum,45.470564,9.179293,IT,Milan,"Piazza Castello 3, 20121 Milano Lombardy",Europe/Rome,Musei Castello Sforzesco
+15,4b05887ff964a52001ca22e3,10039.0,Music Venue,45.472548,9.182985,IT,Milan,"Via Rivoli 6, 20121 Milano Lombardy",Europe/Rome,Teatro Studio
+16,4b71ab41f964a520e7542de3,16041.0,Plaza,45.470814,9.182074,IT,Milan,"Piazza Castello, 20121 Milano Lombardy",Europe/Rome,Piazza Castello
+17,4c0def7f336220a1567acb77,16016.0,Fountain,45.469237,9.180917,IT,Milan,"Piazza Castello 1, 20121 Milano Lombardy",Europe/Rome,Fontana del Castello Sforzesco
+18,4bf017033a002d7fe7a585a4,13047.0,Pastry Shop,45.471361,9.185436,IT,Milan,"Via Madonnina 10, 20121 Milano Lombardy",Europe/Rome,Di Viole di Liquirizia
+19,4d4d25bf9ee137049e0f808b,16041.0,Plaza,45.47034,9.185091,IT,Milan,"Piazza del Carmine, 20121 Milano Lombardy",Europe/Rome,Piazza del Carmine
+20,593567c262420b0806e663d9,13064.0,Pizzeria,45.46436,9.17944,IT,Milan,"Via Bernardino Luini 9, 20123 Milano Lombardy",Europe/Rome,Da Zero - Pizza e Territorio
+21,4b058879f964a520ebc722e3,13145.0,Fast Food Restaurant,45.465061,9.17538,IT,Milan,"Via Carducci 17, 20123 Milano Lombardy",Europe/Rome,Boccondivino
+22,593c0b850a464d2a57ca1f52,13034.0,Café,45.462662,9.183336,IT,Milan,"Via San Maurilio 20, 20123 Milano Lombardy",Europe/Rome,B Café
+23,4c877a3ed92ea093ff1e7672,13003.0,Bar,45.466098,9.180952,IT,Milan,"Via San Giovanni sul Muro 19, 20121 Milano Lombardy",Europe/Rome,Gay Odin
+24,4b058879f964a52014c822e3,13003.0,Bar,45.467682,9.174159,IT,Milan,"Via Giovanni Boccaccio 9, 20123 Milano Lombardy",Europe/Rome,Chocolat
+25,56e9617d498ec215dab4d682,13040.0,Dessert Shop,45.466171,9.17664,IT,Milan,"Corso Magenta 32, 20121 Milano Lombardy",Europe/Rome,Ammu Cannoli Espressi Siciliani
+26,4bc4960ff8219c745e8bb710,10027.0,Museum,45.463038,9.17094,IT,Milan,"Via San Vittore 21, 20123 Milano Lombardy",Europe/Rome,Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci
+27,4b05887bf964a52075c822e3,10027.0,Museum,45.465993,9.170877,IT,Milan,"Piazza Santa Maria delle Grazie 2, 20123 Milano Lombardy",Europe/Rome,Museum of the Last Supper (Museo del Cenacolo Vinciano)
+28,555b1a56498ec057504ee6fd,10028.0,Art Museum,45.465568,9.171018,IT,Milan,"Corso Magenta 65, 20123 Milano Lombardy",Europe/Rome,La Vigna di Leonardo
+29,4b05887ff964a520fec922e3,13003.0,Bar,45.465548,9.179812,IT,Milan,"Corso Magenta 9, 20123 Milano Lombardy",Europe/Rome,De Santis
+30,5728faba498e6c7b0bbeef04,13064.0,Pizzeria,45.46202,9.185818,IT,Milan,"Via Torino 34, 20123 Milano Lombardy",Europe/Rome,PIZ Milano
+31,593c0b850a464d2a57ca1f52,13034.0,Café,45.462662,9.183336,IT,Milan,"Via San Maurilio 20, 20123 Milano Lombardy",Europe/Rome,B Café
+32,53a415d4498e7989b0a489bf,13046.0,Ice Cream Parlor,45.460971,9.183486,IT,Milan,"Via Torino (Via Torino), 20123 Milano Lombardy",Europe/Rome,Cioccolati Italiani
+33,53a30873498eba43e4dfa03d,13046.0,Ice Cream Parlor,45.463795,9.186585,IT,Milan,"Via Spadari 13 (Via Victor Hugo), 20123 Milano Lombardy",Europe/Rome,Ciacco. Gelato senz'altro
+34,59c255de0ff4f947ee21811b,,,45.462634,9.186487,IT,Milan,"Via Torino 22, 20123 Milano Lombardy",Europe/Rome,Muji
+35,4b10287df964a5203a6a23e3,13258.0,Trattoria/Osteria,45.458673,9.181854,IT,Milan,"Via Pio IV 3, 20123 Milano Lombardy",Europe/Rome,Cantina della Vetra
+36,4b05887bf964a520a2c822e3,16000.0,Landmarks and Outdoors,45.458358,9.180872,IT,Milan,"Corso di Porta Ticinese 39, 20123 Milano Lombardy",Europe/Rome,Columns of San Lorenzo (Colonne di San Lorenzo)
+37,58b5d3364e31c52f888a0bed,13035.0,Coffee Shop,45.464944,9.18599,IT,Milan,"Piazza Cordusio 3 (Via Orefici), 20123 Milano Lombardy",Europe/Rome,Starbucks Reserve Roastery Milano (Starbucks Reserve Roastery)
+38,4baa3411f964a520ed523ae3,16041.0,Plaza,45.460664,9.186529,IT,Milan,"Piazza Sant'Alessandro, 20123 Milano Lombardy",Europe/Rome,Piazza Sant'Alessandro
+39,4b05887ef964a52087c922e3,13065.0,Restaurant,45.45986,9.188981,IT,Milan,"Via Maddalena 1 (Corso di Porta Romana), 20122 Milano Lombardy",Europe/Rome,Zen Sushi Restaurant
+40,5728faba498e6c7b0bbeef04,13064.0,Pizzeria,45.46202,9.185818,IT,Milan,"Via Torino 34, 20123 Milano Lombardy",Europe/Rome,PIZ Milano
+41,53a30873498eba43e4dfa03d,13046.0,Ice Cream Parlor,45.463795,9.186585,IT,Milan,"Via Spadari 13 (Via Victor Hugo), 20123 Milano Lombardy",Europe/Rome,Ciacco. Gelato senz'altro
+42,59c255de0ff4f947ee21811b,,,45.462634,9.186487,IT,Milan,"Via Torino 22, 20123 Milano Lombardy",Europe/Rome,Muji
+43,4b05887cf964a520eec822e3,16041.0,Plaza,45.464231,9.188247,IT,Milan,"Piazza del Duomo, 20122 Milano Lombardy",Europe/Rome,Piazza del Duomo
+44,58b5d3364e31c52f888a0bed,13035.0,Coffee Shop,45.464944,9.18599,IT,Milan,"Piazza Cordusio 3 (Via Orefici), 20123 Milano Lombardy",Europe/Rome,Starbucks Reserve Roastery Milano (Starbucks Reserve Roastery)
+45,593c0b850a464d2a57ca1f52,13034.0,Café,45.462662,9.183336,IT,Milan,"Via San Maurilio 20, 20123 Milano Lombardy",Europe/Rome,B Café
+46,552ead66498ef6abfdea1c02,13289.0,Korean Restaurant,45.462369,9.188276,IT,Milan,"Via Giuseppe Mazzini 12, 20123 Milano Lombardy",Europe/Rome,Hana Caffetteria
+47,4e91a0d5775bfdaabcc528ba,16026.0,Monument,45.464273,9.190926,IT,Milan,"Piazza del Duomo, 20123 Milano Lombardy",Europe/Rome,Terrazze del Duomo
+48,50c34255e4b0bc536dce13cb,17082.0,Furniture and Home Store,45.464664,9.188321,IT,Milan,"Piazza dei Mercanti, Milano Lombardy",Europe/Rome,Bialetti Store
+49,4be56709d4f7c9b6f1522520,13046.0,Ice Cream Parlor,45.465261,9.188684,IT,Milan,"Via Mengoni Piazza Duomo (Via Tommaso Grossi), 20121 Milano Lombardy",Europe/Rome,Venchi Cioccogelateria

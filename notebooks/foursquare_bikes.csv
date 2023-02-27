@@ -1,0 +1,101 @@
+,fsq_id,category,distance,latitude,longitude,country,city,address,name
+0,4bb381b7eb3e9521d738cb0a,Plaza,904,48.862797,2.287281,FR,Paris,19 place du Trocadéro et du Onze Novembre,Place du Trocadéro
+1,4adcda10f964a5209a3521e3,Museum,963,48.859254,2.26741,FR,Paris,2 rue Louis Boilly,Musée Marmottan Monet
+2,4adcda0af964a520673421e3,Concert Hall,1007,48.862736,2.288449,FR,Paris,1 place du Trocadero 16th,Théâtre National de Chaillot
+3,4adcda10f964a520bb3521e3,Museum,1012,48.862848,2.288517,FR,Paris,1 place du Trocadéro et du Onze Novembre,Cité de l'architecture et du patrimoine
+4,4c40a4fbe26920a13c385de7,Caterer,1098,48.871192,2.288577,FR,Paris,48 avenue Victo rue Hugo,Lenôtre
+5,4adcda09f964a520063421e3,Garden,1165,48.861515,2.289259,FR,Paris,place du Trocadéro et du Onze Novembre,Gardens of the Trocadero (Jardins du Trocadéro)
+6,53f72f4f498e240441adcfc5,French Restaurant,1397,48.870898,2.293391,FR,Paris,19 avenue Kléber,L'Oiseau Blanc
+7,4c08f9cf6071a5933b09dd32,Museum,1485,48.876546,2.263585,FR,Paris,8 avenue du Mahatma Gandhi,Louis Vuitton Foundation (Fondation Louis Vuitton)
+8,4adcda23f964a520543a21e3,Garden,1615,48.878265,2.264281,FR,Paris,45 avenue du Mahatma Gandhi,Jardin d'Acclimatation
+9,4e078807e4cdefcff6dce4f6,French Restaurant,1596,48.858328,2.294339,FR,Paris,5 avenue Anatole France,Restaurant 58 Tour Eiffel
+10,4bbde5128a4fb713b57e3d9d,Tea Room,52,48.853403,2.338977,FR,Paris,59-61 rue Saint-André des Arts,La Jacobine
+11,4d9f8e297ec88cfa0cdc865a,Creperie,107,48.853144,2.33796,FR,Paris,11 rue Gregoire de Tours Métro Odéon,Little Breizh
+12,4b22eca6f964a5206c5024e3,Cocktail Bar,161,48.854987,2.337701,FR,Paris,23 rue Mazarine 6e,Prescription Cocktail Club
+13,4afd8300f964a5203a2822e3,Wine Bar,191,48.852038,2.338828,FR,Paris,3 carrefour de l'Odéon,L'Avant-Comptoir
+14,53568d3e498e92e5a3a56f36,Dive Bar,245,48.8559,2.340061,FR,Paris,10 rue Dauphine 75006,Chez Nous
+15,59468bd1898bdc07ffc0d6ac,Creperie,236,48.851546,2.338884,FR,Paris,1 rue de l'Odéon,Breizh Café
+16,56a761bd498e4801a8e214da,Seafood Restaurant,178,48.85209,2.33887,FR,Paris,3 Carrefour de l'Odéon,Croissance 5 Avant comptoir de la mer
+17,4b83d2dbf964a5202d1231e3,Plaza,253,48.854352,2.33551,FR,Paris,8 rue de Furstenberg,Place Furstemberg
+18,4b4b6fe4f964a520a19b26e3,Asian Restaurant,219,48.855074,2.341195,FR,Paris,4 rue des Grands Augustins 6e,Ze Kitchen Galerie
+19,4b530766f964a520f88c27e3,Landmarks and Outdoors,352,48.853439,2.343903,FR,Paris,24 boul. Saint Michel,Place Saint-Michel
+20,5238a8c711d28a3c7a057397,Restaurant,255,48.869696,2.367182,FR,Paris,46 quai de Jemmapes Paris,La Vache dans les Vignes
+21,4af5aeaaf964a5203cfb21e3,Food and Beverage Retail,310,48.86625,2.361478,FR,Paris,164 rue du Temple,Monoprix
+22,5c5ef4381acf11002c9cb8fe,Coffee Shop,309,48.865204,2.366607,FR,Paris,140 rue Amelot,Dreaming Man
+23,4b68a117f964a520c8832be3,Wine Bar,326,48.865121,2.363202,FR,Paris,6 rue Charles-François Dupuis rue de la Corderie,Le Barav
+24,501ab9cfe4b089ae3961a041,Seafood Restaurant,374,48.864748,2.363406,FR,Paris,4 rue de la Corderie,L'ilot
+25,533854a0498e13d848afa29f,Housewares Store,327,48.869559,2.361077,FR,Paris,8 et 11 rue du Château-d'Eau,La Trésorerie
+26,54fc65f3498e7f86ee38def9,Bakery,397,48.865237,2.368778,FR,Paris,20 rue Jean Pierre Timbaud,Boulangerie Utopie
+27,548c8b5c498eff940216227a,Wine Bar,352,48.864959,2.365943,FR,Paris,24 boulevard du Temple,Restaurant Martin
+28,4b5eec5df964a520129e29e3,Bakery,402,48.871214,2.362942,FR,Paris,34 rue Yves Toudic 10e,Du Pain et des Idées
+29,587c9bbf286804584a1f28c6,Vietnamese Restaurant,434,48.864167,2.366581,FR,Paris,129 rue Amelot,Banoi
+30,4b22eca6f964a5206c5024e3,Cocktail Bar,278,48.854987,2.337701,FR,Paris,23 rue Mazarine 6e,Prescription Cocktail Club
+31,4b83d2dbf964a5202d1231e3,Plaza,246,48.854352,2.33551,FR,Paris,8 rue de Furstenberg,Place Furstemberg
+32,4adcda09f964a520ff3321e3,Monument,310,48.85831,2.33765,FR,Paris,Pont des Arts,Pont des Arts
+33,5864efb745c3ed1e7d88e96d,Exhibit,420,48.85988,2.337304,FR,Paris,Musée du Louvre,Venus of Milo (Vénus de Milo)
+34,53568d3e498e92e5a3a56f36,Dive Bar,402,48.8559,2.340061,FR,Paris,10 rue Dauphine 75006,Chez Nous
+35,4bc094f1920eb713a51b192c,Clothing Store,396,48.854178,2.330664,FR,Paris,173 boulevard Saint Germain,Ralph Lauren
+36,4c079d740ed3c928b6be797d,Building / Structure,511,48.860471,2.338531,FR,Paris,Musée du Louvre,Cour Carrée
+37,4adcda10f964a520af3521e3,Museum,502,48.860904,2.336311,FR,Paris,99 rue de Rivoli,The Louvre (Musée du Louvre)
+38,58553800fad9dc06353fb898,Lebanese Restaurant,424,48.853113,2.331834,FR,Paris,5 rue Bernard Palissy 75006,Cook'n Saj
+39,4d9f8e297ec88cfa0cdc865a,Creperie,420,48.853144,2.33796,FR,Paris,11 rue Gregoire de Tours Métro Odéon,Little Breizh
+40,503fdaf5e4b003e2b260a76a,French Restaurant,203,48.879225,2.334585,FR,Paris,25 rue la Bruyère,Les Canailles
+41,4d230a536e8c370402f210a0,Bistro,222,48.880416,2.339783,FR,Paris,3 rue Victor Massé 9e,Le Pantruche
+42,4cdd3e1f3f6a8cfa698bf6ea,Coffee Shop,289,48.880619,2.340767,FR,Paris,53 avenue Trudaine 9e,KBCafeshop
+43,527408dd498ed7d6a01dcdc8,Bistro,338,48.877192,2.340926,FR,Paris,8 rue Hippolyte Lebas Paris,Caillebotte
+44,4b115ed4f964a520157b23e3,Plaza,574,48.884606,2.338279,FR,Paris,1 place des Abbesses,Place des Abbesses
+45,4adcda17f964a5204f3821e3,Concert Hall,578,48.882946,2.343039,FR,Paris,80 boulevard de Rochechouart 18e,Le Trianon
+46,4b3159a7f964a5203e0525e3,Music Venue,626,48.875375,2.331046,FR,Paris,25 rue de Mogador 75009,Théâtre Mogador
+47,4b980630f964a520ed2635e3,Italian Restaurant,668,48.885327,2.335876,FR,Paris,5 rue Audran,Al Caratello
+48,5dd296bdd3fbb90007e2e259,Juice Bar,748,48.873654,2.332083,FR,Paris,40 boulevard Haussmann,Joe & The Juice
+49,4bc9d4260687ef3b1b88dacc,Department Store,762,48.873339,2.33217,FR,Paris,40 boulevard Haussmann,Galeries Lafayette
+50,50a68565e4b0540fe03b01ff,Beer Store,641,48.854582,2.384332,FR,Paris,101 rue de Charonne,Paris Saint Biere
+51,50edcbb9e4b0f4e820906b4e,Wine Store,926,48.853717,2.380453,FR,Paris,3 rue Basfroi 11e,Septime la Cave
+52,527d495611d201ce6ba8fb48,Seafood Restaurant,899,48.853571,2.38088,FR,Paris,80 rue de Charonne Paris,Clamato
+53,515f4bd0e4b03c1e7855b051,Pop-Up Store,973,48.850975,2.381369,FR,Paris,8 rue Saint-Bernard,Mel
+54,50543808c84c7e50721da3a6,Fast Food Restaurant,1026,48.857126,2.378479,FR,Paris,85 rue de la Roquette 11e,Chez Aline
+55,4b76f8eaf964a5200f702ee3,Bistro,1070,48.849872,2.381044,FR,Paris,43-45 rue de Citeaux,L'Ebauchoir
+56,5ad06f59febf316801ad0305,Art Museum,1065,48.861587,2.381015,FR,Paris,38 rue Saint-Maur,Atelier des Lumières
+57,5585787e498edcdb3d541bd5,Bakery,1138,48.861814,2.379862,FR,Paris,10 Passage Rochebrune 11e,Broken Biscuits
+58,55199c44498ed951dcccdda3,Italian Restaurant,1209,48.850997,2.377857,FR,Paris,133 rue du Faubourg Saint-Antoine,East Mamma
+59,4d38b652acf1b60c57ad8318,Tapas Restaurant,1293,48.855134,2.375035,FR,Paris,22 rue des Taillandiers,Le Chat Ivre
+60,4adcda15f964a520873721e3,Museum,544,48.837229,2.382555,FR,Paris,51 rue de Bercy,La Cinémathèque française
+61,591624431b0ea52ea821c07b,Beer Bar,544,48.843859,2.381953,FR,Paris,81 rue du Charolais 12e,Ground Control
+62,4b4f8c95f964a520000b27e3,Art Museum,893,48.832705,2.389201,FR,Paris,53 avenue des Terroirs de France,Musée des Arts Forains
+63,4b76f8eaf964a5200f702ee3,Bistro,1103,48.849872,2.381044,FR,Paris,43-45 rue de Citeaux,L'Ebauchoir
+64,515f4bd0e4b03c1e7855b051,Pop-Up Store,1205,48.850975,2.381369,FR,Paris,8 rue Saint-Bernard,Mel
+65,4b1cf16ef964a5209f0a24e3,Movie Theater,1297,48.832158,2.37563,FR,Paris,128-162 avenue de France 13e,MK2 Bibliothèque
+66,55199c44498ed951dcccdda3,Italian Restaurant,1344,48.850997,2.377857,FR,Paris,133 rue du Faubourg Saint-Antoine,East Mamma
+67,4bb4c84d8786ef3b42a66533,Bakery,1444,48.835602,2.405658,FR,Paris,278 avenue Daumesnil,Vandermeersch
+68,50edcbb9e4b0f4e820906b4e,Wine Store,1523,48.853717,2.380453,FR,Paris,3 rue Basfroi 11e,Septime la Cave
+69,527d495611d201ce6ba8fb48,Seafood Restaurant,1510,48.853571,2.38088,FR,Paris,80 rue de Charonne Paris,Clamato
+70,4b2e385bf964a52067dd24e3,Department Store,54,48.850525,2.324502,FR,Paris,24 rue de Sèvres,Le Bon Marché
+71,4adcda21f964a520fc3921e3,Gourmet Store,157,48.850325,2.323607,FR,Paris,38 rue de Sèvres,La Grande Epicerie de Paris
+72,5c3235b08afbe0002dcd9eb3,Cocktail Bar,153,48.851285,2.327114,FR,Paris,45 boulevard Raspail 6e,Bar Joséphine
+73,5d6ae3b0ca1763000823441b,Peruvian Restaurant,327,48.854281,2.324369,FR,Paris,53 rue de Grenelle,Coya Paris
+74,4babdad1f964a5205ecf3ae3,Chocolate Store,354,48.849105,2.328459,FR,Paris,16 rue d'Assas,Jean-Charles Rochoux
+75,4b4635eff964a520271a26e3,Cheese Store,535,48.848029,2.319464,FR,Paris,62 rue de Sèvres,Fromagerie Quatrehomme
+76,4bc094f1920eb713a51b192c,Clothing Store,520,48.854178,2.330664,FR,Paris,173 boulevard Saint Germain,Ralph Lauren
+77,516d9a47e4b004f2bba1f2b9,Asian Restaurant,497,48.852658,2.331387,FR,Paris,6 rue du Sabot,Blueberry
+78,58553800fad9dc06353fb898,Lebanese Restaurant,544,48.853113,2.331834,FR,Paris,5 rue Bernard Palissy 75006,Cook'n Saj
+79,4adcda1ff964a520843921e3,Bakery,563,48.851459,2.332724,FR,Paris,72 rue Bonaparte Paris,Pierre Hermé
+80,4b588679f964a5201c5c28e3,Bookstore,174,48.850568,2.345689,FR,Paris,67 boulevard Saint Germain,Album
+81,4adcda21f964a520f23921e3,Bookstore,276,48.852581,2.34712,FR,Paris,37 rue de la Bûcherie,Shakespeare & Company
+82,4b530766f964a520f88c27e3,Landmarks and Outdoors,203,48.853439,2.343903,FR,Paris,24 boul. Saint Michel,Place Saint-Michel
+83,5b394cae92e7a9002c724cf9,Bakery,387,48.849803,2.348321,FR,Paris,47ter boulevard Saint-Germain,La Maison d'Isabelle
+84,4bc0790f4cdfc9b6b4de9221,Indie Movie Theater,229,48.849585,2.342942,FR,Paris,9 rue Champollion,La Filmothèque du Quartier Latin
+85,59468bd1898bdc07ffc0d6ac,Creperie,356,48.851546,2.338884,FR,Paris,1 rue de l'Odéon,Breizh Café
+86,4afd8300f964a5203a2822e3,Wine Bar,359,48.852038,2.338828,FR,Paris,3 carrefour de l'Odéon,L'Avant-Comptoir
+87,4bbde5128a4fb713b57e3d9d,Tea Room,393,48.853403,2.338977,FR,Paris,59-61 rue Saint-André des Arts,La Jacobine
+88,4c00046cc30a2d7fbeda111d,Plaza,408,48.853414,2.348487,FR,Paris,place du Parvis-Notre-Dame,Parvis Notre-Dame — Place Jean-Paul II
+89,56a761bd498e4801a8e214da,Seafood Restaurant,377,48.85209,2.33887,FR,Paris,3 Carrefour de l'Odéon,Croissance 5 Avant comptoir de la mer
+90,4c113790ce57c928a42383d2,Fast Food Restaurant,158,48.881539,2.298976,FR,Paris,8 rue Gustave Flaubert,Il était une oie dans le Sud-Ouest
+91,4c224a3611de20a1b7a084ce,Bakery,220,48.883357,2.298823,FR,Paris,143 rue de Courcelles,Boulangerie-Pâtisserie Lohezic
+92,4d602544865a224b2091a785,French Restaurant,441,48.879846,2.296229,FR,Paris,16 rue Saussier Leroy,L'Huîtrier
+93,4adcda09f964a5200d3421e3,Park,645,48.879424,2.309228,FR,Paris,35-41 boulevard de Courcelles,Parc Monceau
+94,5127d6aee4b0e1bb8f8a9f42,Italian Restaurant,659,48.877422,2.295622,FR,Paris,14 rue de l'Etoile,La Cantina Chic
+95,4adcda15f964a520a53721e3,Concert Hall,546,48.877042,2.300986,FR,Paris,252 rue du Faubourg Saint Honore 8th,Salle Pleyel
+96,50abd239e4b0869279d6a3af,Japanese Restaurant,716,48.875513,2.300553,FR,Paris,35-37 avenue Hoche,Matsuhisa Paris
+97,4bd816a009ecb7135f03487c,Jewelry Store,981,48.87341,2.297495,FR,Paris,154 avenue des Champs Elysées,Cartier
+98,4bbddcf1593fef3b31ea0356,Museum,1000,48.875308,2.310608,FR,Paris,158 boulevard Haussmann,Musée Jacquemart André
+99,5b982ec3f5e9d7002cc1cd2d,Computers and Electronics Retail,1082,48.872368,2.301339,FR,Paris,114 avenue des Champs-Élysées,Apple Champs-Élysées
