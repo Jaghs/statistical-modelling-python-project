@@ -1,4 +1,4 @@
-# Statistical Modelling with Python in Paris 🥐
+# Statistical Modelling and APIs with Python for Paris Bikestations 🚲
 
 ## Project/Goals 🎯
 
